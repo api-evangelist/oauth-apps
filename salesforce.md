@@ -1,4 +1,4 @@
-# Saleforce OAuth
+# Saleforce OAuth Application Setup
 This is a walk through of setting up a Salesforce OAuth application so you can use in a Postman collection for making requests to the Salesforce REST API. There are several ways you can authenticate with Salesforce and this way walks you through the OAuth 2.0 approach to authorization with the Salesforce REST API with a full connected application setup.
 
 You can manage your connected applications within your Salesforce account under Platform Tools > Apps > App Manager. You can manage your existing application using the listing or you can create a new one using the New Connected App button in the top right corner of the screen.

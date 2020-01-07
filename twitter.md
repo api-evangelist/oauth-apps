@@ -1,4 +1,4 @@
-# Twitter OAuth
+# Twitter OAuth Application Setup
 This is a walk through for setting up a Twitter application so that you can authorize using Postman. Before you can use any Postman Twitter API collection you will have to download the Postman applications, then setup your own Twitter application at: https://developer.twitter.com/en/apps so you can make calls to the Twitter API--do not worry, it is painless, and something even a non-developer can do.
 
 ![alt text](https://kinlane-productions.s3.amazonaws.com/postman-tutorials/twitter-status-lookup/twitter-application.png "New Application")
